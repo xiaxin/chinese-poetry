@@ -1,4 +1,4 @@
 [submodule "chinese-poetry"]
-    path = chinese-poetry
-    url = https://github.com/chinese-poetry/chinese-poetry
+	path = chinese-poetry
+	url = https://github.com/chinese-poetry/chinese-poetry
     branch = master
